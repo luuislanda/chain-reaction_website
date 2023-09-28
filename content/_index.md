@@ -15,7 +15,7 @@ If you want to know more about us, check out our <u>[about page by clicking here
 ols are on the right", class="textCenter") }}
 
 
-# Opening Hours and News
+## Opening Hours and News
 
 Here are the opening hours for the coming weeks:
 
@@ -23,7 +23,7 @@ Here are the opening hours for the coming weeks:
 <iframe title="Cryptpad showing opening hours and news" width="600" height="500" src="https://cryptpad.fr/code/#/2/code/view/ySgsGoQl3j7TL4IPuMnBhTca7PmgiI+efl9uBgCSaYY/embed/present/"></iframe>
 </div>
 
-# How does it work
+## How does it work
 
 You can use any of our tools and do whatever you need to do with your bike.
 
@@ -31,7 +31,7 @@ If you are not sure how to repair it, we can guide you through it.
 
 If you need to replace a part, we might have some that we scanvanged or were donated. No guarantee though!
 
-# Location
+## Location
 
 You can find us at Folketspark, in a container next to Folketshus
 
@@ -42,7 +42,7 @@ You can find us at Folketspark, in a container next to Folketshus
 </div>
 
 
-# Join us!
+## Join us!
 
 Volunteers can come in all shapes and sizes, and in all skill-levels. We do not stand here as experts, together we enable each other to accomplish what we aim for.
 
@@ -50,7 +50,7 @@ If you are interested, come visit us during the opening hours and chat to some o
 <br>
 <br>
 
-# This website and your data
+## This website and your data
 This website is open source and still under construction. We are working on making it fully compliant with the international guidelines for accesible web content. If you want to help us with this or you spotted something that needs work, please raise an issue on <u>[our github page](https://github.com/luuislanda/chain-reaction_website)</u>, tell us in person or  do a pull request. 
 
 The site is being served to you via <u>[1984](https://1984.hosting/about)</u> and runs on renewable energy that is connected to the normal grid as back-up. 
