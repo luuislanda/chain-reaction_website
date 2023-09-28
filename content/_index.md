@@ -5,7 +5,7 @@
 Welcome to _your_ bike workshop. We are a non-profit, self-organized and volunteer-driven workshop.
 <br>
 
-Our aim is to liberate each other from the vicious consumer cycle via mutual aid. Most industrially-produced goods are made to break, we want to focus on repair & reuse rather than replacement. 
+Our aim is to liberate each other from the vicious consumer cycle via mutual aid. Most industrially-produced goods are made to break, we want to focus on repair & reuse rather than replacement.
 <br>
 
 If you want to know more about us, check out our <u>[about page by clicking here.](@/about/_index.md)</u>
@@ -51,12 +51,10 @@ If you are interested, come visit us during the opening hours and chat to some o
 <br>
 
 ## This website and your data
-This website is open source and still under construction. We are working on making it fully compliant with the international guidelines for accesible web content. If you want to help us with this or you spotted something that needs work, please raise an issue on <u>[our github page](https://github.com/luuislanda/chain-reaction_website)</u>, tell us in person or  do a pull request. 
-
 The site is being served to you via <u>[1984](https://1984.hosting/about)</u> and runs on renewable energy that is connected to the normal grid as back-up. 
 
 We don't store any information or cookies about you or your device. This site connects to two external sources to fetch data but these also don't use cookies:<br>
 
-    🔒 Cryptpad: To show the changing opening hours and news
-    📍 OpenStreetMap: To show the location of the workshop
+- 🔒 Cryptpad: To show the changing opening hours and news
+- 📍 OpenStreetMap: To show the location of the workshop
 
