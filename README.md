@@ -4,7 +4,7 @@ This website was built using [Zola](https://www.getzola.org) and a modified vers
 
 It focuses on simplicity, designed for single pagers or websites that don't require much updating. It also avoid any form of tracking or fingerprinting scripts. Hence why a cookie banner is not required.
 
-# Help us
+## Help us
 
 We are working on the website so that it is compliant with the international guidelines for accesible web content. The web team is not too experienced with this so any help is amazing!
 
