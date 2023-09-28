@@ -11,12 +11,15 @@ We are working on the website so that it is compliant with the international gui
 ### Disclaimer
 This repository is for the Chain Reaction Website. To modify it's contents you will need to at least familiar with markdown based static site generators such as Zola. 
 
-As this page is a one-pager, all of the content is in the 
+As this page is a one-pager, all of the content is in the following locations
 ```
 /content/_index.md
+/content/about/_index.md
 ```
 
-If you intend to also use Cryptpad in your website, note that the iframe will not render unless it is called from an https address. At the time of writing Zola does not support locally deployed TLS. This can make local testing tricky, but not impossible. I recommend to directly test it in your server or maybe Zola will add support for it soon.
+If you intend to also use Cryptpad in your website, note that the iframe will not render unless it is called from an https address. 
+
+At the time of writing Zola does not support locally deployed TLS. This can make local testing tricky, but not impossible. I recommend to directly test it in your server or maybe Zola will add support for it soon.
 
 ### License
 
