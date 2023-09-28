@@ -1,0 +1,6 @@
+## random files used for local deployment testing
+*.pem
+*.txt
+
+## the folder where the website is generated
+public/

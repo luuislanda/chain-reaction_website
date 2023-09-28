@@ -1,0 +1,4 @@
+name = "community-onepager"
+description = "A modified version of the anemone Zola theme. It's minimalist and intended for websites with few pages or as single-pagers. It inherits all of anemone's functions but as it is now has stripped them down to make room for a simple page-based website"
+license = "MIT"
+disclaimer = "This theme is intended for personal and community use. It is not actively developed or maintained. If your website needs more than 2 -3 pages or is going to be a blog or regularly changed, you might want to check other zola themes"
